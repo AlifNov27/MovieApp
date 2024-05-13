@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.infinitelearning.infiniteapp"
+    namespace = "com.infinitelearning.movieapp"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.infinitelearning.infiniteapp"
+        applicationId = "com.infinitelearning.movieapp"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">InfiniteApp</string>
     <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_course">Course</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_profile">Profile</string>
     <string name="menu_share">Share</string>
-    <string name="infinite_share">Infinite Application</string>
-    <string name="share_message">Ayo Join MSIB Android Mobile Development di Infinite Learning!</string>
+    <string name="movieapp_share">Movie App</string>
+    <string name="share_message">Ayo Tonton Film hanya di Movie APP!</string>
 </resources>
